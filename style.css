@@ -46,6 +46,7 @@
     height: 100%;
   }
 
+
   
 
 
@@ -68,7 +69,6 @@
   .navbar-wrapper {
   width: 100%;
   position: absolute;
-  top: 5%;
   }
 
   .navbar-mobile {
